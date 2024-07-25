@@ -1,4 +1,3 @@
-## Hi there 👋
 <div align= "center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=ffe5e5&height=120&text=Hello,%20I'm%20YeEun&animation=&fontColor=e0e0e0&fontSize=50" />
     </div>
